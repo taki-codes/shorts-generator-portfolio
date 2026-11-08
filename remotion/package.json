@@ -1,0 +1,13 @@
+{
+  "name": "owshort-caption-overlays",
+  "private": true,
+  "type": "module",
+  "scripts": {"render": "node render.mjs"},
+  "dependencies": {
+    "@remotion/bundler": "4.0.536",
+    "@remotion/renderer": "4.0.536",
+    "remotion": "4.0.536",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  }
+}

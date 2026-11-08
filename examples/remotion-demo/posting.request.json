@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "youtube": {
+    "channel_id": null,
+    "privacy": "private",
+    "made_for_kids": null,
+    "publish_at": null
+  },
+  "tiktok": {
+    "username": null,
+    "method": "browser",
+    "result_type": null,
+    "privacy": null,
+    "scheduled_at": null
+  },
+  "status": "NOT_UPLOADED"
+}

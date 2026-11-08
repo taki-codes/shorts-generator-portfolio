@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "preview_scale": 0.5,
+    "max_duration": 180
+  },
+  "font_path": "C:/Windows/Fonts/meiryob.ttc",
+  "caption": {
+    "size": 72,
+    "stroke": 5,
+    "color": "#FFFFFF",
+    "max_lines": 3,
+    "x": 0.46,
+    "y": 0.76,
+    "max_width": 0.78
+  },
+  "layout": {
+    "main_x": 0,
+    "main_y": 0.3,
+    "main_width": 1,
+    "main_height": 0.4,
+    "focus_x": 0.07,
+    "focus_y": 0.08,
+    "focus_width": 0.78,
+    "focus_height": 0.2
+  },
+  "audio": {
+    "game_gain_db": -4,
+    "voice_gain_db": 0,
+    "sfx_gain_db": -10,
+    "target_lufs": -16,
+    "true_peak_db": -1.5,
+    "duck": true
+  },
+  "voicevox_url": "http://127.0.0.1:50021",
+  "editorial": {
+    "never_cut_for_silence": true,
+    "max_focus_events_per_30s": 2,
+    "max_sfx_per_30s": 2,
+    "punchline_pause_seconds": 0.4,
+    "prefer_reactions_over_explanation": true
+  },
+  "feedback_history": []
+}

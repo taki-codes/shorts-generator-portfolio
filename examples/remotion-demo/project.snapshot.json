@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "synthetic_test": true,
+  "source": "source.mp4",
+  "preferences": "preferences.json",
+  "comments": [
+    {
+      "id": "plain",
+      "text": "通常字幕",
+      "mode": "subtitle"
+    },
+    {
+      "id": "animated",
+      "text": "全部受け止める！",
+      "mode": "subtitle"
+    }
+  ]
+}

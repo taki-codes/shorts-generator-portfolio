@@ -1,0 +1,21 @@
+{
+  "status": "UNVERIFIED",
+  "application_version": null,
+  "evidence": null,
+  "checks": [
+    "XML import succeeds",
+    "all media online",
+    "1080x1920 sequence at selected fps",
+    "cut/freeze/replay timing",
+    "caption PNG position and alpha",
+    "stereo channels and sync",
+    "save/reopen .prproj",
+    "export and compare"
+  ],
+  "limitations": [
+    "Layouts/ROI/speed baked into segment video; change plan and rerender to edit these.",
+    "Caption PNG appearance baked; edit text using SRT or regenerate PNG.",
+    "Editable audio XML has pre-bus stems; ducking/loudnorm must be reapplied in Premiere.",
+    "Review XML uses finished mix.wav to match FFmpeg output."
+  ]
+}

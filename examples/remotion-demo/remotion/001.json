@@ -1,0 +1,38 @@
+{
+  "comment_id": "animated",
+  "renderer": "remotion",
+  "file": "remotion\\001.mov",
+  "start": 0.5,
+  "end": 1.3,
+  "sha256": "6d9fb67c56b9297477a3d20aa842d96cd8761da557f96bb516071c1e0085b714",
+  "entry_sha256": "f07c1253b7db8585dbc3d73bb0bb8243bfd33079c3197990795f8ff8a3195ced",
+  "request": "指定字幕だけ跳ねて色替え",
+  "alpha": true,
+  "input_props": {
+    "text": "全部受け止める！",
+    "width": 540,
+    "height": 960,
+    "fps": 30,
+    "durationInFrames": 24,
+    "x": 0.46,
+    "y": 0.76,
+    "fontSize": 36.0,
+    "stroke": 2.5,
+    "color": "#FFFFFF",
+    "maxWidth": 0.78,
+    "effect": "bounce-highlight",
+    "bounceHeight": 45,
+    "tokens": [
+      {
+        "text": "全部",
+        "start": 0,
+        "end": 0.4
+      },
+      {
+        "text": "受け止める！",
+        "start": 0.4,
+        "end": 0.8
+      }
+    ]
+  }
+}
